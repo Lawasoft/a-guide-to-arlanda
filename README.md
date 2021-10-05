@@ -2,7 +2,7 @@
 
 Thit page is a small guide, intended for passengers that othervise be lost when coming to the airport, writen by someone who works there and knows some of the usual questions, and as a bonus there is a small gallery that gives a small view of the airport. and last of all a short video clip that is just about taking of and landing.
 
-![Main Page](/images/responsive-page.png)
+![Main Page](https://lawasoft.github.com/images/responsive-page.png)
 
 ## Features
 
@@ -16,7 +16,7 @@ Thit page is a small guide, intended for passengers that othervise be lost when 
 
 * Is to welcome passengers that find there way here
 
-![Main Page](/images/main-page.png)
+![Main Page](https://lawasoft.github.com/images/main-page.png)
 
 ### The footer
 
@@ -26,7 +26,7 @@ Thit page is a small guide, intended for passengers that othervise be lost when 
 
 * Some photos of the and from the airport
 
-![Gallery](/images/gallery-page.png)
+![Gallery](https://lawasoft.github.com/images/gallery-page.png)
 
 ### video
 
@@ -57,7 +57,15 @@ I tested it on my Phone, Cat s61, Main page text was a little of, rest looked ok
 * It could show better on Phobes like mine
 
 ## Deployment
-How to deploy this site via Github
+
+This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
+
+* The site was deployed to GitHub pages. The steps to deploy are as follows:
++ In the GitHub repository, navigate to the Settings tab
++ From the source section drop-down menu, select the Master Branch
++ Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found here - 
 
 ## Credits
 
@@ -65,7 +73,7 @@ How to deploy this site via Github
 * Text on main page is my own
 * Media links was copied from [Love Running Project](https://lawasoft.github.io/love-running/index.html)
 * Icons in the footer arefrom [Fontawesome](https://fontawesome.com/)
-Google Fonts
+* And some from Google Fonts
 
 ### Media
 * Main page images is from [Arlanda Hotel Guide](http://www.arlandahotellguide.se/om-arlanda/)
