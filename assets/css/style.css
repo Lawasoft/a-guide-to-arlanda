@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: 'Open sans', sans-serif;
+    font-weight: 300;
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+
+}
+
+h1, h2 {
+    font-family: 'Abril Fatface', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Abril Fatface', sans-serif;
+    text-transform: lowercase;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+.info-text {
+    margin-left: auto;
+    margin-right: auto;
+    width: 32em;
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
+
+#logo {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    text-align: center;
+    
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    list-style-type: none;
+    color: rgb(255, 0, 0);
+    text-size-adjust: 150%;
+    text-align: center;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 2px solid #ffffff;
+}
+
+.active {
+    border-bottom: #ffffff;
+}
+
+.arn-image {
+    max-width: 100%;
+    height: auto;
+                
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #1100ff;
+}
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+    padding-top: 20px;
+    padding-left: 200px;
+}
+
+#photos > img {
+    width: 100%;
+}
+
+.video {
+    justify-content: center;
+    display: flex;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+@media(max-width: 768px){
+    header,
+    div,
+    div nav,
+    div nav li,
+    section,
+    footer{
+        text-align: center;
+        width: 100%;
+    }
+
+    #photos{
+        padding-top: 30px;
+        padding-left: 10px;
+        column-count: 2;
+    }
+    
+}
