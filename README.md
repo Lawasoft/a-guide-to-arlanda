@@ -2,7 +2,7 @@
 
 Thit page is a small guide, intended for passengers that othervise be lost when coming to the airport, writen by someone who works there and knows some of the usual questions, and as a bonus there is a small gallery that gives a small view of the airport. and last of all a short video clip that is just about taking of and landing.
 
-![Main Page](https://lawasoft.github.io/a-guide-to-arlanda/images/responsive-page.png)
+![Main Page](/images/responsive-page.png)
 
 ## Features
 
@@ -16,7 +16,7 @@ Thit page is a small guide, intended for passengers that othervise be lost when 
 
 * Is to welcome passengers that find there way here
 
-![Main Page](https://lawasoft.github.io/a-guide-to-arlanda/images/main-page.png)
+![Main Page](/images/main-page.png)
 
 ### The footer
 
@@ -26,7 +26,7 @@ Thit page is a small guide, intended for passengers that othervise be lost when 
 
 * Some photos of the and from the airport
 
-![Gallery](https://lawasoft.github.io/a-guide-to-arlanda/images/gallery-page.png)
+![Gallery](/images/gallery-page.png)
 
 ### video
 
