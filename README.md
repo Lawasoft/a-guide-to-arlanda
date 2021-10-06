@@ -32,6 +32,8 @@ Thit page is a small guide, intended for passengers that othervise be lost when 
 
 * 2 min of plane fun, Enjoy
 
+![Video Page](assets/images/video-page.png)
+
 ### Features left to Implement
 
 * More info (If only more of Arlanda was open)
