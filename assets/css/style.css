@@ -76,7 +76,7 @@ h3 {
 #arn-image {
     height: 459px;
     width: 100%;
-    background: url(assets/images/arlanda-terminal-wide.jpg) no-repeat center center;
+    background: url(../assets/images/arlanda-terminal-wide.jpg) no-repeat center center;
 }
 
 .social-networks {
